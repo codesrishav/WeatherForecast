@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { motion } from 'framer-motion';
-import WeatherCard from './Weathercard';
+import WeatherCard from './WeatherCard';
 import Particles from 'react-tsparticles'; // Import particles from tsparticles
 
 function App() {
